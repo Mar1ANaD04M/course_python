@@ -1,20 +1,19 @@
-# Instructions: print out the following sentences, the sentence must show as the comments
+#'Instructions: print out the following sentences the sentence must show as the comments
 
-# "Once Charles Dickens said: "It was the best of times, it was the worst of times""
-
-
-
-# 5    7    9    11
+print('Once Charles Dickens said:"It was the best of times, it was the worst of times"', end='\n')
+print("Once Charles Dickens said:\"It was the best of times, it was the worst of times\"")
 
 
-"""
-Actuarial
-Science
-"""
+
+print(5,7,9,11, sep='\t')
 
 
-# With just three '-' print out five '-'
+print('Actuarial', 'Science',sep='\n')
+print('Actuarial',\n, 'Science')
 
 
-# Hello world (this is the first program that all programmers do)
+print('-','-','-', sep='-')
+
+
+print('Hello world (this is the first program that all programmers do)')
 
